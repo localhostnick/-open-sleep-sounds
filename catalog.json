@@ -1,0 +1,510 @@
+{
+  "name": "open-sleep-sounds",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "description": "Public domain and royalty-free sleeping sound effects, binaural beats, and ambient sleep music.",
+  "categories": [
+    {
+      "id": "01-rain-and-storms",
+      "title": "Rain & Storms",
+      "tag": "Weather",
+      "tracks": [
+        {
+          "title": "Heavy Rain",
+          "filename": "heavy-rain.mp3",
+          "path": "sounds/01-rain-and-storms/heavy-rain.mp3",
+          "description": "Steady intense downpour for noise-blocking and sleep",
+          "size_mb": 0.52,
+          "format": "MP3"
+        },
+        {
+          "title": "Gentle Light Rain",
+          "filename": "gentle-light-rain.mp3",
+          "path": "sounds/01-rain-and-storms/gentle-light-rain.mp3",
+          "description": "Soft ambient drizzle and light sprinkles",
+          "size_mb": 3.6,
+          "format": "MP3"
+        },
+        {
+          "title": "Rain On Window",
+          "filename": "rain-on-window.mp3",
+          "path": "sounds/01-rain-and-storms/rain-on-window.mp3",
+          "description": "Rain tapping steadily against window glass",
+          "size_mb": 0.8,
+          "format": "MP3"
+        },
+        {
+          "title": "Rain On Tent",
+          "filename": "rain-on-tent.mp3",
+          "path": "sounds/01-rain-and-storms/rain-on-tent.mp3",
+          "description": "Rhythmic drops drumming against tent canvas",
+          "size_mb": 1.42,
+          "format": "MP3"
+        },
+        {
+          "title": "Rain On Leaves",
+          "filename": "rain-on-leaves.mp3",
+          "path": "sounds/01-rain-and-storms/rain-on-leaves.mp3",
+          "description": "Rain falling through dense woodland leaves",
+          "size_mb": 0.66,
+          "format": "MP3"
+        },
+        {
+          "title": "Rain On Car Roof",
+          "filename": "rain-on-car-roof.mp3",
+          "path": "sounds/01-rain-and-storms/rain-on-car-roof.mp3",
+          "description": "Muffled rain pattering on a vehicle roof",
+          "size_mb": 0.23,
+          "format": "MP3"
+        },
+        {
+          "title": "Rain On Umbrella",
+          "filename": "rain-on-umbrella.mp3",
+          "path": "sounds/01-rain-and-storms/rain-on-umbrella.mp3",
+          "description": "Direct rainfall impact on umbrella fabric",
+          "size_mb": 0.99,
+          "format": "MP3"
+        },
+        {
+          "title": "Thunderstorm",
+          "filename": "thunderstorm.mp3",
+          "path": "sounds/01-rain-and-storms/thunderstorm.mp3",
+          "description": "Low rumble of distant thunder with heavy rain",
+          "size_mb": 2.09,
+          "format": "MP3"
+        }
+      ]
+    },
+    {
+      "id": "02-fireplace-and-fire",
+      "title": "Fireplace & Campfire",
+      "tag": "Cozy Ambience",
+      "tracks": [
+        {
+          "title": "Crackling Fireplace",
+          "filename": "crackling-fireplace.mp3",
+          "path": "sounds/02-fireplace-and-fire/crackling-fireplace.mp3",
+          "description": "Indoor hearth fireplace with crisp wood crackles",
+          "size_mb": 3.1,
+          "format": "MP3"
+        },
+        {
+          "title": "Night Campfire",
+          "filename": "night-campfire.mp3",
+          "path": "sounds/02-fireplace-and-fire/night-campfire.mp3",
+          "description": "Open outdoor campfire burning under evening air",
+          "size_mb": 0.6,
+          "format": "MP3"
+        }
+      ]
+    },
+    {
+      "id": "03-crickets-and-night-wildlife",
+      "title": "Crickets & Night Wildlife",
+      "tag": "Nature Ambience",
+      "tracks": [
+        {
+          "title": "Night Crickets",
+          "filename": "night-crickets.mp3",
+          "path": "sounds/03-crickets-and-night-wildlife/night-crickets.mp3",
+          "description": "Warm summer night field crickets chorus",
+          "size_mb": 2.71,
+          "format": "MP3"
+        },
+        {
+          "title": "Night Village",
+          "filename": "night-village.mp3",
+          "path": "sounds/03-crickets-and-night-wildlife/night-village.mp3",
+          "description": "Peaceful countryside nocturnal atmosphere",
+          "size_mb": 2.18,
+          "format": "MP3"
+        },
+        {
+          "title": "Night Forest",
+          "filename": "night-forest.mp3",
+          "path": "sounds/03-crickets-and-night-wildlife/night-forest.mp3",
+          "description": "Deep forest insects and distant night breeze",
+          "size_mb": 3.11,
+          "format": "MP3"
+        },
+        {
+          "title": "Forest Birds",
+          "filename": "forest-birds.mp3",
+          "path": "sounds/03-crickets-and-night-wildlife/forest-birds.mp3",
+          "description": "Gentle dawn/dusk woodland birdsong",
+          "size_mb": 1.96,
+          "format": "MP3"
+        },
+        {
+          "title": "Pond Frogs",
+          "filename": "pond-frogs.mp3",
+          "path": "sounds/03-crickets-and-night-wildlife/pond-frogs.mp3",
+          "description": "Soothing rhythmic marsh frogs near still water",
+          "size_mb": 1.5,
+          "format": "MP3"
+        },
+        {
+          "title": "Night Owl",
+          "filename": "night-owl.mp3",
+          "path": "sounds/03-crickets-and-night-wildlife/night-owl.mp3",
+          "description": "Echoing owl hooting in midnight woods",
+          "size_mb": 0.09,
+          "format": "MP3"
+        },
+        {
+          "title": "Cat Purring",
+          "filename": "cat-purring.mp3",
+          "path": "sounds/03-crickets-and-night-wildlife/cat-purring.mp3",
+          "description": "Continuous rhythmic low-frequency feline purr",
+          "size_mb": 0.43,
+          "format": "MP3"
+        },
+        {
+          "title": "Deep Jungle",
+          "filename": "deep-jungle.mp3",
+          "path": "sounds/03-crickets-and-night-wildlife/deep-jungle.mp3",
+          "description": "Atmospheric tropical rainforest night sounds",
+          "size_mb": 3.89,
+          "format": "MP3"
+        }
+      ]
+    },
+    {
+      "id": "04-water-and-ocean",
+      "title": "Water & Ocean",
+      "tag": "Hydrotherapy",
+      "tracks": [
+        {
+          "title": "Ocean Waves",
+          "filename": "ocean-waves.mp3",
+          "path": "sounds/04-water-and-ocean/ocean-waves.mp3",
+          "description": "Calm rhythmic surf washing onto a sandy beach",
+          "size_mb": 2.24,
+          "format": "MP3"
+        },
+        {
+          "title": "River Stream",
+          "filename": "river-stream.mp3",
+          "path": "sounds/04-water-and-ocean/river-stream.mp3",
+          "description": "Bubbling freshwater stream gliding over pebbles",
+          "size_mb": 3.71,
+          "format": "MP3"
+        },
+        {
+          "title": "Gentle Waterfall",
+          "filename": "gentle-waterfall.mp3",
+          "path": "sounds/04-water-and-ocean/gentle-waterfall.mp3",
+          "description": "Constant soothing roar of a secluded waterfall",
+          "size_mb": 0.53,
+          "format": "MP3"
+        },
+        {
+          "title": "Cave Water Droplets",
+          "filename": "cave-water-droplets.mp3",
+          "path": "sounds/04-water-and-ocean/cave-water-droplets.mp3",
+          "description": "Resonant droplets in a subterranean cavern",
+          "size_mb": 0.76,
+          "format": "MP3"
+        },
+        {
+          "title": "Underwater Drone",
+          "filename": "underwater-drone.mp3",
+          "path": "sounds/04-water-and-ocean/underwater-drone.mp3",
+          "description": "Submerged ambient hydrophone hum and bubbles",
+          "size_mb": 0.5,
+          "format": "MP3"
+        }
+      ]
+    },
+    {
+      "id": "05-wind-and-breeze",
+      "title": "Wind & Breeze",
+      "tag": "Atmosphere",
+      "tracks": [
+        {
+          "title": "Gentle Wind",
+          "filename": "gentle-wind.mp3",
+          "path": "sounds/05-wind-and-breeze/gentle-wind.mp3",
+          "description": "Soft continuous air stream through open terrain",
+          "size_mb": 1.53,
+          "format": "MP3"
+        },
+        {
+          "title": "Wind In Trees",
+          "filename": "wind-in-trees.mp3",
+          "path": "sounds/05-wind-and-breeze/wind-in-trees.mp3",
+          "description": "Gentle gusts rustling high forest branches",
+          "size_mb": 1.23,
+          "format": "MP3"
+        },
+        {
+          "title": "Howling Winter Wind",
+          "filename": "howling-winter-wind.mp3",
+          "path": "sounds/05-wind-and-breeze/howling-winter-wind.mp3",
+          "description": "Blustery arctic gusts outside warm shelter",
+          "size_mb": 0.5,
+          "format": "MP3"
+        }
+      ]
+    },
+    {
+      "id": "06-white-pink-brown-noise",
+      "title": "White, Pink & Brown Noise",
+      "tag": "Noise Masking",
+      "tracks": [
+        {
+          "title": "Brown Noise",
+          "filename": "brown-noise.wav",
+          "path": "sounds/06-white-pink-brown-noise/brown-noise.wav",
+          "description": "Warm, deep low-frequency roar for sleep & insomnia",
+          "size_mb": 0.87,
+          "format": "WAV"
+        },
+        {
+          "title": "Pink Noise",
+          "filename": "pink-noise.wav",
+          "path": "sounds/06-white-pink-brown-noise/pink-noise.wav",
+          "description": "Balanced 1/f noise mimicking natural rainfall balance",
+          "size_mb": 1.6,
+          "format": "WAV"
+        },
+        {
+          "title": "White Noise",
+          "filename": "white-noise.wav",
+          "path": "sounds/06-white-pink-brown-noise/white-noise.wav",
+          "description": "Equal-energy spectrum across all audible frequencies",
+          "size_mb": 1.6,
+          "format": "WAV"
+        },
+        {
+          "title": "Ceiling Fan",
+          "filename": "ceiling-fan.mp3",
+          "path": "sounds/06-white-pink-brown-noise/ceiling-fan.mp3",
+          "description": "Domestic electric fan hum and circulating airflow",
+          "size_mb": 0.17,
+          "format": "MP3"
+        }
+      ]
+    },
+    {
+      "id": "07-binaural-brainwaves",
+      "title": "Binaural Brainwaves",
+      "tag": "Brain Entrainment",
+      "tracks": [
+        {
+          "title": "Binaural Delta Sleep",
+          "filename": "binaural-delta-sleep.wav",
+          "path": "sounds/07-binaural-brainwaves/binaural-delta-sleep.wav",
+          "description": "0.5-4 Hz delta frequency for stage 3/4 deep sleep",
+          "size_mb": 2.52,
+          "format": "WAV"
+        },
+        {
+          "title": "Binaural Theta Meditation",
+          "filename": "binaural-theta-meditation.wav",
+          "path": "sounds/07-binaural-brainwaves/binaural-theta-meditation.wav",
+          "description": "4-8 Hz theta tones for lucid dreaming and meditation",
+          "size_mb": 2.52,
+          "format": "WAV"
+        },
+        {
+          "title": "Binaural Alpha Relaxation",
+          "filename": "binaural-alpha-relaxation.wav",
+          "path": "sounds/07-binaural-brainwaves/binaural-alpha-relaxation.wav",
+          "description": "8-12 Hz alpha waves for pre-sleep relaxation",
+          "size_mb": 2.52,
+          "format": "WAV"
+        },
+        {
+          "title": "Binaural Beta Focus",
+          "filename": "binaural-beta-focus.wav",
+          "path": "sounds/07-binaural-brainwaves/binaural-beta-focus.wav",
+          "description": "12-30 Hz frequencies for reading & calm attention",
+          "size_mb": 2.52,
+          "format": "WAV"
+        },
+        {
+          "title": "Binaural Gamma Clarity",
+          "filename": "binaural-gamma-clarity.wav",
+          "path": "sounds/07-binaural-brainwaves/binaural-gamma-clarity.wav",
+          "description": "30-50 Hz high-frequency cognitive alignment",
+          "size_mb": 2.52,
+          "format": "WAV"
+        }
+      ]
+    },
+    {
+      "id": "08-meditation-and-chimes",
+      "title": "Meditation & Chimes",
+      "tag": "Mindfulness",
+      "tracks": [
+        {
+          "title": "Tibetan Singing Bowl",
+          "filename": "tibetan-singing-bowl.mp3",
+          "path": "sounds/08-meditation-and-chimes/tibetan-singing-bowl.mp3",
+          "description": "Warm metallic singing bowl with long harmonic decay",
+          "size_mb": 0.41,
+          "format": "MP3"
+        },
+        {
+          "title": "Bamboo Wind Chimes",
+          "filename": "bamboo-wind-chimes.mp3",
+          "path": "sounds/08-meditation-and-chimes/bamboo-wind-chimes.mp3",
+          "description": "Acoustic wooden and metal chimes floating in breeze",
+          "size_mb": 2.15,
+          "format": "MP3"
+        },
+        {
+          "title": "Zen Temple",
+          "filename": "zen-temple.mp3",
+          "path": "sounds/08-meditation-and-chimes/zen-temple.mp3",
+          "description": "Spacious monastery resonance and tranquil quiet",
+          "size_mb": 1.49,
+          "format": "MP3"
+        }
+      ]
+    },
+    {
+      "id": "09-cozy-and-travel-ambience",
+      "title": "Cozy & Travel Ambience",
+      "tag": "Atmospheric Drift",
+      "tracks": [
+        {
+          "title": "Inside Train Cabin",
+          "filename": "inside-train-cabin.mp3",
+          "path": "sounds/09-cozy-and-travel-ambience/inside-train-cabin.mp3",
+          "description": "Hypnotic rolling motion inside passenger carriage",
+          "size_mb": 1.38,
+          "format": "MP3"
+        },
+        {
+          "title": "Distant Train Tracks",
+          "filename": "distant-train-tracks.mp3",
+          "path": "sounds/09-cozy-and-travel-ambience/distant-train-tracks.mp3",
+          "description": "Faraway freight train rolling across night rails",
+          "size_mb": 1.22,
+          "format": "MP3"
+        },
+        {
+          "title": "Wooden Sailboat",
+          "filename": "wooden-sailboat.mp3",
+          "path": "sounds/09-cozy-and-travel-ambience/wooden-sailboat.mp3",
+          "description": "Creaking timbers and gentle water slapping hull",
+          "size_mb": 2.09,
+          "format": "MP3"
+        },
+        {
+          "title": "Airplane Cabin",
+          "filename": "airplane-cabin.mp3",
+          "path": "sounds/09-cozy-and-travel-ambience/airplane-cabin.mp3",
+          "description": "Uniform pressurized jet cabin white noise",
+          "size_mb": 0.8,
+          "format": "MP3"
+        },
+        {
+          "title": "Quiet Library",
+          "filename": "quiet-library.mp3",
+          "path": "sounds/09-cozy-and-travel-ambience/quiet-library.mp3",
+          "description": "Still archival hall with subtle natural acoustics",
+          "size_mb": 3.65,
+          "format": "MP3"
+        },
+        {
+          "title": "Warm Coffee Shop",
+          "filename": "warm-coffee-shop.mp3",
+          "path": "sounds/09-cozy-and-travel-ambience/warm-coffee-shop.mp3",
+          "description": "Comforting background chatter and ceramic clatter",
+          "size_mb": 1.69,
+          "format": "MP3"
+        },
+        {
+          "title": "Ticking Wall Clock",
+          "filename": "ticking-wall-clock.mp3",
+          "path": "sounds/09-cozy-and-travel-ambience/ticking-wall-clock.mp3",
+          "description": "Steady hypnotic tick-tock of pendulum clock",
+          "size_mb": 0.09,
+          "format": "MP3"
+        },
+        {
+          "title": "Vinyl Crackle",
+          "filename": "vinyl-crackle.mp3",
+          "path": "sounds/09-cozy-and-travel-ambience/vinyl-crackle.mp3",
+          "description": "Warm analogue record needle static and pops",
+          "size_mb": 1.48,
+          "format": "MP3"
+        }
+      ]
+    },
+    {
+      "id": "10-sleeping-music",
+      "title": "Sleeping Music & Lullaby",
+      "tag": "Melodic Sleep",
+      "tracks": [
+        {
+          "title": "Infinite Peace",
+          "filename": "infinite-peace.mp3",
+          "path": "sounds/10-sleeping-music/infinite-peace.mp3",
+          "description": "Gentle synthesizer pads and ambient lullaby textures",
+          "size_mb": 2.32,
+          "format": "MP3"
+        },
+        {
+          "title": "River Meditation",
+          "filename": "river-meditation.mp3",
+          "path": "sounds/10-sleeping-music/river-meditation.mp3",
+          "description": "Meditative flute melodies gliding over soft water",
+          "size_mb": 2.55,
+          "format": "MP3"
+        },
+        {
+          "title": "Dreams Of Vain",
+          "filename": "dreams-of-vain.mp3",
+          "path": "sounds/10-sleeping-music/dreams-of-vain.mp3",
+          "description": "Downtempo ambient progression for deep unwinding",
+          "size_mb": 3.7,
+          "format": "MP3"
+        },
+        {
+          "title": "Forest Night Melody",
+          "filename": "forest-night-melody.mp3",
+          "path": "sounds/10-sleeping-music/forest-night-melody.mp3",
+          "description": "Warm acoustic nocturnal instrumentation",
+          "size_mb": 2.85,
+          "format": "MP3"
+        },
+        {
+          "title": "Shining Stars",
+          "filename": "shining-stars.mp3",
+          "path": "sounds/10-sleeping-music/shining-stars.mp3",
+          "description": "Delicate night melody inspired by starlight",
+          "size_mb": 5.34,
+          "format": "MP3"
+        },
+        {
+          "title": "Sleep Time Piano",
+          "filename": "sleep-time-piano.mp3",
+          "path": "sounds/10-sleeping-music/sleep-time-piano.mp3",
+          "description": "Tender acoustic piano ballad composed for sleep",
+          "size_mb": 4.19,
+          "format": "MP3"
+        },
+        {
+          "title": "Goldberg Aria Lullaby",
+          "filename": "goldberg-aria-lullaby.mp3",
+          "path": "sounds/10-sleeping-music/goldberg-aria-lullaby.mp3",
+          "description": "Bach's historic Aria written originally for insomnia",
+          "size_mb": 5.53,
+          "format": "MP3"
+        },
+        {
+          "title": "Moonlight Ambiance",
+          "filename": "moonlight-ambiance.mp3",
+          "path": "sounds/10-sleeping-music/moonlight-ambiance.mp3",
+          "description": "Lyrical nocturnal strings and acoustic reverie",
+          "size_mb": 7.48,
+          "format": "MP3"
+        }
+      ]
+    }
+  ]
+}
